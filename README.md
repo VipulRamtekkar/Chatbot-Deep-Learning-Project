@@ -1,3 +1,3 @@
 # Chatbot-Deep-Learning-Project
 
-This project is an attempt to create a chatbot that conversates like a human being by training the bot using the chats obtained via various social media platforms. 
+This project is a chatbot created using the [movie conversation dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). You can download the dataset from the link. 
